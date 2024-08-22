@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Migui2611
+- 👋 Hi, I’m @MikeGO
 - 👀 I’m interested in Videogame Development, 3D modelling and short film animation.
 - 🌱 I’m currently learning videogame development.
 - 💞️ I’m looking to collaborate on ...
